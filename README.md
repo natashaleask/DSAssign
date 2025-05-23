@@ -6,7 +6,7 @@ In the rapidly evolving commercial space industry, Space Y aims to gain competit
 
 ## Project Overview
 
-This repository contains the data science workflows, models, and insights for Space Y's competitive analysis initiative. By analyzing historical launch data, we aim to develop predictive models that can inform strategic decision-making for future Space Y missions.
+This repository contains the data science workflows, models, and insights for Space Y's competitive analysis initiative. By analysing historical launch data, we aim to develop predictive models that can inform strategic decision-making for future Space Y missions.
 
 ## Key Objectives
 
